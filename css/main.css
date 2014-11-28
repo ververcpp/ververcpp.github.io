@@ -278,6 +278,8 @@ body {
     .page-content .post pre code {
       padding: 0;
       border: none; }
+    .page-content .post img {
+      max-width: 100%; }
     .page-content .post pre.terminal {
       border: 1px solid #000;
       background-color: #333;
