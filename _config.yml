@@ -1,0 +1,10 @@
+# Site settings
+title: Tang Jiaze
+email: ververcpp@gmail.com
+name: Tang Jiaze
+twitter: ververcpp
+description: "verver's blog based on Jekyll, Web, Computer & Life"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
